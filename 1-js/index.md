@@ -1,6 +1,5 @@
-# The JavaScript language
+# El lenguaje JavaScript
 
-Here we learn JavaScript, starting from scratch and go on to advanced concepts like OOP.
+Aquí aprendemos JavaScript, empezando desde el principio y siguiendo a conceptos más avanzados como la programación orientada a objetos.
 
-We concentrate on the language itself here, with the minimum of environment-specific notes.
-
+Concentramos en el idioma en si mismo, con el mínimo de notas específicas al ambiente.
